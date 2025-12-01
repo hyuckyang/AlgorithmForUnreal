@@ -1,0 +1,14 @@
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+.idea/
+.vsconfig
+*.sln
+*.VC.db
+*.VC.opendb
+Thumbs.db
+desktop.ini
