@@ -8,7 +8,6 @@ Unreal 5.6 / Rider / C++
 - Quadtree
 - Octree
 - KD-Tree
-- BSP Tree
 
 ### A* Pathfinding
 
@@ -22,7 +21,5 @@ Unreal 5.6 / Rider / C++
 
 ![Octree](https://github.com/user-attachments/assets/c7079ab0-b123-4f96-b370-dfa062cdb007)
 
-
 ### KD-Tree(예정)
-### BSP Tree(예정)
 
